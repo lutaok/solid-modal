@@ -1,0 +1,37 @@
+{
+  "name": "@lutaok/solid-modal",
+  "private": "false",
+  "version": "0.0.1",
+  "description": "A modal made with SolidJS and love",
+  "main": "dist/solid-modal.mjs",
+  "types": "dist/solid-modal.d.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidjs",
+    "modal"
+  ],
+  "author": "lutaok",
+  "contributors": [
+    {
+      "name": "lutaok",
+      "url": "https://github.com/lutaok"
+    }
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "solid-js": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "solid-js": "^1.6.13",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4",
+    "vite-plugin-dts": "^2.1.0",
+    "vite-plugin-solid": "^2.6.1"
+  }
+}
