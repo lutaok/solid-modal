@@ -1,6 +1,6 @@
 {
   "name": "@lutaok/solid-modal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modal made with SolidJS and love",
   "main": "dist/solid-modal.mjs",
   "types": "dist/solid-modal.d.ts",
